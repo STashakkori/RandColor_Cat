@@ -5,8 +5,6 @@ use rand::Rng;
 use std::io::{self, Read};
 
 fn main() {
-    println!("Starting test...");
-
     // Read input from standard input (stdin)
     let mut input = String::new();
     io::stdin()
