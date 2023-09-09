@@ -1,4 +1,4 @@
-// Colorful Print
+// Random Color Cat
 // By: Sina Tashakkori, QVLx Labs
 
 use rand::Rng;
