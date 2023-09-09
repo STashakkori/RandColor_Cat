@@ -1,4 +1,4 @@
-// Rust Rainbow Print
+// Colorful Print
 // By: Sina Tashakkori, QVLx Labs
 
 use rand::Rng;
